@@ -10,6 +10,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/af30026b-1bc5-4d58-85bd-4b8a31360365)
+
+
 ## ✨ Features
 
 ### 🌟 Thought-Provoking Prompts  
@@ -38,8 +41,10 @@ Secure login system using Google Auth — no passwords to remember, just fast an
 
 ---
 
-## 📸 Screenshots (optional)
-_Add clean UI screenshots here once available to make it visually appealing._
+## 📸 Screenshots 
+![image](https://github.com/user-attachments/assets/3a7731c8-4b08-48a8-b45c-5158be519523)
+
+![image](https://github.com/user-attachments/assets/ce78a372-36fb-4641-8609-14e64fb6c494)
 
 ---
 
