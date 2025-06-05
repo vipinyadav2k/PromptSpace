@@ -50,10 +50,9 @@ Secure login system using Google Auth — no passwords to remember, just fast an
 
 ## 🚧 Upcoming Enhancements
 
-- ✍️ Edit & delete your prompts  
 - 🧠 Prompt rating & bookmarking  
 - 💬 Comment and reply system  
-- 📊 User profiles and prompt analytics  
+ 
 
 ---
 
