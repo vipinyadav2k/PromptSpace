@@ -1,4 +1,5 @@
-# 🚀 Prompt-Space
+<h1 align="center">🚀 Prompt-Space</h1>
+
 
 **Prompt-Space** is your go-to hub for **thought-provoking AI prompts**, designed to ignite creativity, spark conversations, and bring together curious minds from all walks of life. With a sleek, intuitive interface and a powerful community-first philosophy, Prompt-Space is the perfect place to explore, create, and share prompts that inspire.
 
